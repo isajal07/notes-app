@@ -7,9 +7,10 @@ Install [File-System](https://www.npmjs.com/package/file-system), [yarg](https:/
 ```bash
 $ npm install file-system --save
 
+$ npm i yargs@12.0.2
+
 $ npm install chalk
 
-$ npm i yargs@12.0.2
 ```
 ## Usages
 To add the note:
