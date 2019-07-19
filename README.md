@@ -15,7 +15,7 @@ $ npm install chalk
 ## Usages
 To add the note:
 ```bash
-node app.js add --title="_TitleName_" --body=" *BodyName* "
+node app.js add --title= _TitleName_ --body=" *BodyName* "
 ```
 To remove the note:
 ```bash
