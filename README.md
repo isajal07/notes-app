@@ -15,11 +15,11 @@ $ npm install chalk
 ## Usages
 To add the note:
 ```bash
-node app.js add --title="*TitleName*" --body="*BodyName*"
+node app.js add --title=" *TitleName* " --body=" *BodyName* "
 ```
 To remove the note:
 ```bash
-node app.js remove --title="*TitleName*"
+node app.js remove --title=" *TitleName* "
 ```
 To list the note:
 ```bash
@@ -28,7 +28,7 @@ node app.js list
 
 To read the note:
 ```bash
-node app.js read --title="*TitleName*"
+node app.js read --title=" *TitleName* "
 ```
 
 
